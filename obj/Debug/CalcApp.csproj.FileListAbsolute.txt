@@ -1,0 +1,15 @@
+C:\Users\klagu\source\repos\CalcApp\CalcApp\bin\Debug\CalcApp.exe.config
+C:\Users\klagu\source\repos\CalcApp\CalcApp\bin\Debug\CalcApp.exe
+C:\Users\klagu\source\repos\CalcApp\CalcApp\bin\Debug\CalcApp.pdb
+C:\Users\klagu\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.csprojAssemblyReference.cache
+C:\Users\klagu\source\repos\CalcApp\CalcApp\obj\Debug\MainWindow.g.cs
+C:\Users\klagu\source\repos\CalcApp\CalcApp\obj\Debug\App.g.cs
+C:\Users\klagu\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp_MarkupCompile.cache
+C:\Users\klagu\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp_MarkupCompile.lref
+C:\Users\klagu\source\repos\CalcApp\CalcApp\obj\Debug\MainWindow.baml
+C:\Users\klagu\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.g.resources
+C:\Users\klagu\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.Properties.Resources.resources
+C:\Users\klagu\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.GenerateResource.cache
+C:\Users\klagu\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.CoreCompileInputs.cache
+C:\Users\klagu\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.exe
+C:\Users\klagu\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.pdb
