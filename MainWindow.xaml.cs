@@ -20,8 +20,8 @@ namespace CalcApp
     /// </summary>
     public partial class MainWindow : Window
     {
-        List<String> numbers = new List<string>();
-        List<String> operators = new List<string>();
+       // List<String> numbers = new List<string>()
+        List<String> operators = new List<string>() {"+","-" };
 
         List<String> input = new List<String>();
 
@@ -31,6 +31,35 @@ namespace CalcApp
             var Content = b.Content.ToString();
             input.Add(Content);
             textbox.AppendText(Content);
+        }
+        void Submit(object sender, RoutedEventArgs e)
+        {
+            List<int> numbers = new List<int>();
+            List<String> localOperators = new List<String>();
+            String number = "";
+            Console.WriteLine(input.Count());
+            foreach(string el in input)
+            {
+                if (!operators.Contains(el))
+                {
+                    number += el;
+                    Console.WriteLine(number);
+                    if(input.IndexOf(el) + 1 == input.Count())
+                    {
+                        numbers.Add(int.Parse(number));
+                        Console.WriteLine(numbers);
+                    }
+                }
+                else
+                {
+                    localOperators.Add(el);
+                    numbers.Add(int.Parse(number));
+                    number = "";
+                    Console.WriteLine(numbers);
+                }
+
+            }
+
         }
 
         public MainWindow()
